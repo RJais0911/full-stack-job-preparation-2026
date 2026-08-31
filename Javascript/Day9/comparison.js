@@ -10,7 +10,7 @@ function getData(dataID,getNextData){
 getData(1);
 
 
-//callback hell
+//callback hell 
 getData(1,()=>{
     getData(2,()=>{
         getData(3,()=>{
