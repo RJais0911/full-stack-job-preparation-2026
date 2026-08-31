@@ -353,9 +353,6 @@
 // //in conclusion, we can modify the properties of a constant object, but we cannot reassign the entire object to a new value.
 
 
-//Day1 Completed.
-
-
 
 
 
