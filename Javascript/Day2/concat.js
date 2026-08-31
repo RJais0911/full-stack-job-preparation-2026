@@ -1,5 +1,5 @@
 // Purpose: Merge arrays
-// Does NOT modify original array
+// Does NOT modify original arrays but it return new array.
 
 const a = [1, 2];
 const b = [3, 4];
