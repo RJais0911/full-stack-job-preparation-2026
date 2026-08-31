@@ -350,8 +350,7 @@
 // // }; // This will cause an error because 'Student' is a constant.
 // console.log(Student);
 
-// //in conclusion, we can modify the properties of a constant object, but we cannot reassign the entire object to a new value.
-
+//in conclusion, we can modify the properties of a constant object, but we cannot reassign the entire object to a new value.
 
 
 
